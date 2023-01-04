@@ -21,16 +21,8 @@
 }
 
 .isOnline {
-  display: inline-flex;
-  width: 20px;
-  height: 20px;
   background-color: #008000;
-  border-radius: 50%;
 }
-
-/* .isOnline {
-  background-color: #008000;
-} */
 
 .avatar {
   width: 70px;
